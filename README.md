@@ -38,4 +38,3 @@ Com base nesses dados e no perfil do buscador definido, o agente realiza as segu
 6.  **Apresenta o Orçamento:** Exibe o orçamento detalhado por categoria e o custo total em ambas as moedas.
 7.  **Oferece Dicas:** Fornece dicas de economia e personalização da viagem.
 
-## Perfil do Buscador
